@@ -1,0 +1,9 @@
+name: BetterExp
+main: org.uninstal.betterexp.Main
+version: 1.0
+api-version: 1.13
+author: ["Uninstal"]
+description: "Create the bottle."
+commands:
+  exp:
+    description: "Main command."
